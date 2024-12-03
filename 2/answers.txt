@@ -1,0 +1,2 @@
+The total safe reports: 321.
+The total safe reports with removing one: 386.

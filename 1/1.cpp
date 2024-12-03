@@ -6,7 +6,7 @@ Author: Calixt Charlebois
 GitHub: https://github.com/calixt88/Advent-Of-Code-2024
 License: MIT
 
-This program is a solution to the Advent of Code [Year], Day [Day Number] challenge.
+This program is a solution to the Advent of Code 2024, Day 1 challenge.
 For more information on the challenge, visit: https://adventofcode.com/[Year]/day/[Day Number]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
